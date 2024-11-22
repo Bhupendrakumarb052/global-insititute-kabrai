@@ -1,4 +1,4 @@
 # global-insititute-kabrai
-learn HTML and CSS
+learn HTML , CSS and JavaScript 
 <br>
 Author - Bhupendra kumar
